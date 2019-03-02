@@ -18,6 +18,7 @@ public class totaloccurenceinsortedarray {
 		// TODO Auto-generated method stub
 
 		int firstOccurence = binarySearchfirst(array, target);
+		System.out.println(firstOccurence);
 
 		int lastoccurence = binarySearchLast(array, target);
 
